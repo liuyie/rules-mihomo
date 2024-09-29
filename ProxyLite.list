@@ -4,3 +4,10 @@
 +.apphot.cc
 +.browserleaks.com
 +.firefox.com
+
+#docker相关
++.cloudfront.net
++.compose-spec.io
++.docker.com
++.docker.io
++.dockerhub.com
