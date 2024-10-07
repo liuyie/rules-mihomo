@@ -11,3 +11,10 @@
 +.docker.com
 +.docker.io
 +.dockerhub.com
++.registry-1.docker.io
++.registry-2.docker.io
++.amazonaws.com
++.gcr.io
++.quay.io
++.azurecr.io
++.githubusercontent.com
